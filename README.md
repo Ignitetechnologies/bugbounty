@@ -23,7 +23,7 @@ This cheatsheet is built for the Red Teamers and Penetration Testers such in ord
 14. [Netcat for Pentester](https://www.hackingarticles.in/netcat-for-pentester/)
 15. [WPScan:WordPress Pentesting Framework](https://www.hackingarticles.in/wpscanwordpress-pentesting-framework/)
 16. [WordPress Pentest Lab Setup in Multiple Ways](https://www.hackingarticles.in/wordpress-pentest-lab-setup-in-multiple-ways/)
-17. [Multiple Ways to Crack WordPress login)](https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login/)
+17. [Multiple Ways to Crack WordPress login](https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login/)
 18. [Web Application Pentest Lab Setup on AWS](https://www.hackingarticles.in/web-application-pentest-lab-setup-on-aws/)
 19. [Web Application Lab Setup on Windows](https://www.hackingarticles.in/web-application-lab-setup-on-windows/)
 20. [Web Application Pentest Lab setup Using Docker](https://www.hackingarticles.in/web-application-pentest-lab-setup-using-docker/)
