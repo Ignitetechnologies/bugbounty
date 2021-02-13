@@ -8,7 +8,7 @@ This cheatsheet is built for the Red Teamers and Penetration Testers such in ord
 
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
-2. [Understanding the CSRF Vulnerability](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
+2. [CSRF](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
 3. [Cross-Site Scripting Exploitation](https://www.hackingarticles.in/cross-site-scripting-exploitation/)
 4. [Cross-Site Scripting (XSS)](https://www.hackingarticles.in/comprehensive-guide-on-cross-site-scripting-xss/)
 5. [Unrestricted File Upload](https://www.hackingarticles.in/comprehensive-guide-on-unrestricted-file-upload/)
