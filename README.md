@@ -38,7 +38,7 @@ This cheatsheet is built for the Red Teamers and Penetration Testers such in ord
 29. [How to Bypass SQL Injection Filter Manually](https://www.hackingarticles.in/bypass-filter-sql-injection-manually/)
 30. [Form Based SQL Injection Manually](https://www.hackingarticles.in/form-based-sql-injection-manually/)
 31. [Dumping Database using Outfile](https://www.hackingarticles.in/dumping-database-using-outfile/)
-32. [IDOR)](https://www.hackingarticles.in/beginner-guide-insecure-direct-object-references/)
+32. [IDOR](https://www.hackingarticles.in/beginner-guide-insecure-direct-object-references/)
 
 
 
