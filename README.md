@@ -22,5 +22,17 @@ This cheatsheet is built for the Red Teamers and Penetration Testers such in ord
 13. [Local File Inclusion (LFI)](https://www.hackingarticles.in/comprehensive-guide-to-local-file-inclusion/)
 14. [Netcat for Pentester](https://www.hackingarticles.in/netcat-for-pentester/)
 15. [WPScan:WordPress Pentesting Framework](https://www.hackingarticles.in/wpscanwordpress-pentesting-framework/)
+16. [WordPress Pentest Lab Setup in Multiple Ways](https://www.hackingarticles.in/wordpress-pentest-lab-setup-in-multiple-ways/)
+17. [Multiple Ways to Crack WordPress login)](https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login/)
+18. [Web Application Pentest Lab Setup on AWS](https://www.hackingarticles.in/web-application-pentest-lab-setup-on-aws/)
+19. [Web Application Lab Setup on Windows](https://www.hackingarticles.in/web-application-lab-setup-on-windows/)
+20. [Web Application Pentest Lab setup Using Docker](https://www.hackingarticles.in/web-application-pentest-lab-setup-using-docker/)
+21. [Web Shells Penetration Testing](https://www.hackingarticles.in/web-shells-penetration-testing/)
+22. [SMTP Log Poisoning through LFI to Remote Code Execution](https://www.hackingarticles.in/smtp-log-poisioning-through-lfi-to-remote-code-exceution/)
+23. [Multiple Ways To Exploiting HTTP Authentication](https://www.hackingarticles.in/multiple-ways-to-exploiting-http-authentication/)
+24. [Understanding the HTTP Protocol](https://www.hackingarticles.in/understanding-http-protocol/)
+25. [Broken Authentication & Session Management](https://www.hackingarticles.in/comprehensive-guide-on-broken-authentication-session-management/)
+26. [Apache Log Poisoning through LFI](https://www.hackingarticles.in/apache-log-poisoning-through-lfi/)
+27. [Beginner’s Guide to SQL Injection (Part 1)](https://www.hackingarticles.in/beginner-guide-sql-injection-part-1/)
 
 
