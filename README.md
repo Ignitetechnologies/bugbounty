@@ -1,6 +1,6 @@
 # Web Penetration Testing
 
-This cheatsheet is built for the Red Teamers and Penetration Testers such in order to help them to hunt the vulnerabilties. It is designed such that the beginners can understand the fundamentals and the professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, thereby we've performed and compiled this list over with our experience. Please share it with your connections and send your queries and feedbacks directly to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is built for Red Teamers and Penetration Testers in order to help them hunt for vulnerabilities. It is designed such that beginners can understand the fundamentals and professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, so we've performed and compiled this list with our experience. Please share it with your connections and send your queries and feedback directly to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
